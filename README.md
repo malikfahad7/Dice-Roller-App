@@ -1,1 +1,1 @@
-A simple dice roller app made using kotlin
+A simple dice roller app made using Jetpack Compose
